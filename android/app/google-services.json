@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39520456056",
+    "project_id": "flutter-chat-app-f8207",
+    "storage_bucket": "flutter-chat-app-f8207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39520456056:android:acc0635d7f3ea82e12cc8d",
+        "android_client_info": {
+          "package_name": "com.kratapp.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39520456056-hn2gqedgcbhckrq8s5au0umcp0nv2ual.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1q3f-kCRVUWI2YTpFCjNNJFX-ECYp5As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39520456056-hn2gqedgcbhckrq8s5au0umcp0nv2ual.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
